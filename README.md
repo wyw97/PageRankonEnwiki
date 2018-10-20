@@ -1,1 +1,2 @@
 # PageRankonEnwiki
+这是对enwiki的数据集进行解析的pagerank代码，使用了gensim包中的函数，由于是稀疏矩阵直接存在二维字典中即可，具体见代码，欢迎讨论交流！
